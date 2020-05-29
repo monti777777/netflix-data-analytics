@@ -1,2 +1,3 @@
-# netflix-data
-Capstone Project. Netflix data.
+# Netflix-data
+Это проект был сделан для сдачи курса в Сodecademy. 
+В этой работе были изучены финансовые показатели Netflix, а именно стоимость акций и проведено сравнение с индексом Dow Jones. 
